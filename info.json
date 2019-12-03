@@ -1,10 +1,17 @@
 {
-
+	[{
 	"firstName": "John ",
 	"lastName": "Smith",
 	"age": 27,
 	"phoneNumbers": "1+(646) 555-4567",
 	"email": "johnsmith@msn.com"
-
-
+	},{
+	"firstName": "Jane ",
+	"lastName": "Smith",
+	"age": 27,
+	"phoneNumbers": "1+(646) 555-4567",
+	"email": "johnsmith@msn.com"
+	}]
+	
+	
 }
