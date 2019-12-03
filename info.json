@@ -1,7 +1,7 @@
 
 {
 
-    "firstName": "John (example to json, must remove contents within ( ) to get working) ",
+    "firstName": "John ",
     "lastName": "Smith",
     "isAlive": true,
     "age": 27,
